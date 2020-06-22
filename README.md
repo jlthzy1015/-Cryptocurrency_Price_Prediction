@@ -3,11 +3,8 @@
 ### 说明
 本仓库代码为区块链与数字经济课程报告中的实验代码
 
+### Mid_report
+中期报告代码
 
-实验环境:Python3.6 + Pytorch 1.2.0 + Cuda10.0
-
-
-IDE：Jupyter Notebook
-
-
-已将实验结果转存为html文件
+### Final_report
+期末project代码
